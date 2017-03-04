@@ -11,17 +11,24 @@ bagi presentasi menjadi part:
   d. nosql
   e. version control
   f. VM & Container
-  g. Infrastructure as a coding
 3. Cloud
   a. PaaS
   b. SaaS
   c. IaaS
   d. Container cloud, version control cloud, IDE cloud, DB cloud
-  e. DevOps
-4. Pattern pengembangan software
+4. Arsitektur pengembangan software
   a. Monolitik - MVC, MVVM
   b. Services - sistem yang memiliki kemampuan interoperabiliti supaya dapat saling terintegrasi
-  c. Microservices / Distributed sistem
+  c. Microservices
+Ada beberapa faktor penting yang menjadi kelebihan dari arsitektur microservices, yaitu:
+
+Language agnostic APIs: API yang tidak bergantung pada pemilihan bahasa program
+Small building blocks: Pengembangannya dengan membangun blok-blok kecil
+Highly decoupled: Satu sama lain tidak saling ketergantungan
+Focused on doing small task: Fokus pada pekerjaan yang lebih spesifik
+Modular approach: Pendekatannya modular
+Continuosly deployed systems: Pengimplementasian sistem secara terus menerus
+
 Demo Apps
 5. Role dalam Rekayasa Software
   a. PM / Project Manager - Memaintain jalannya pengembangan, mengatur komposisi tim, melakukan negosiasi dengan klien, dan menjadi penengah ketika tim memiliki kendala
